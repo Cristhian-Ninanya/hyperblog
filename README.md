@@ -11,5 +11,6 @@ Un blog para el curso de [Git y GitHub](https://platzi.com/clases/1557-git-githu
 *Humor.
 *Creado por Platzi Team.
 *Incluye ejemplos en windows, linux y Mac.
+*Disponible para todas las edades.
 
 Considerar que **Este readme.md es de prueba**.Diseñado como un ejemplo.
