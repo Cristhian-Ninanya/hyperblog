@@ -9,5 +9,6 @@ Un blog para el curso de [Git y GitHub](https://platzi.com/clases/1557-git-githu
 *Buenas practicas.
 *Buenos trucos.
 *Humor.
+*Creado por Platzi Team.
 
 Considerar que **Este readme.md es de prueba**.Diseñado como un ejemplo.
